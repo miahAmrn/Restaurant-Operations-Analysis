@@ -1,4 +1,4 @@
-estaurant Menu Analysis Project
+Restaurant Menu Analysis Project
 
 Project Overview
 
